@@ -1,0 +1,44 @@
+@media (min-width: 979px) {
+	body {
+		padding-top: 60px;
+		padding-bottom: 40px;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #888;
+}
+
+.navbar-inner {
+	/*background-color: #FFF;*/
+	background-image: none;
+}
+
+.img-trem, .txt-trem {
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: 'Trocchi', serif;
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.brand {
+	font-family: 'Trocchi', serif;
+	color: #CCCCCC !important;
+}
+
+.nav {
+	font-family: 'Trocchi', serif;
+}
+
+body {
+	font-family: 'Trocchi', serif;
+	background-color: #FFF;
+}
+
+h5 {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
